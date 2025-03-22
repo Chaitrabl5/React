@@ -1,0 +1,8 @@
+.navbar-nav {
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .nav-item {
+    margin: 0 15px;
+  }
